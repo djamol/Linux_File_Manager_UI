@@ -1,5 +1,5 @@
 # PHP_Linux_File_Manager_UI
-Linux File Manager (by PHP )
+Linux File Manager (by PHP Web Server )
 # Main UI
 ![Logged](preview_images/Logged.png)
 
