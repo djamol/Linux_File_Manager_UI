@@ -3,7 +3,9 @@ Linux File Manager (by PHP Web Server )
 # Main UI
 ![Logged](preview_images/Logged.png)
 
-# Login  -- Username Password set in index.php files as your requirement default username : demo password :demo1234
+# Login  
+-- Username Password set in index.php(Configure File) file as your requirement 
+-- default username : demo password :demo1234
 ![Login](preview_images/login.png)
 
 
