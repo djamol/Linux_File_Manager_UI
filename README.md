@@ -9,17 +9,17 @@ Linux File Manager (by PHP Web Server )
 ![Login](preview_images/login.png)
 
 
-# file_preview
+# File Preview UI
 ![file_preview](preview_images/file_preview.png)
 
 
-# file_Editor
+# File Editor UI
 ![file_Editor](preview_images/file_Editor.png)
 
-# file_adv_editor
+# File Advance Editor UI
 ![file_adv_editor](preview_images/file_adv_editor.png)
 
-# upload
+# Upload Files UI
 ![upload](preview_images/upload.png)
 ![upload2](preview_images/upload2.png)
 
