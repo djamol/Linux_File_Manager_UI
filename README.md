@@ -33,12 +33,14 @@ Amol File Manger is distributed under Apache license in a form of a single PHP f
 
 # Docker 
 https://hub.docker.com/r/djamol/linuxwebfilemanger
-Step
-Step
 
+
+Step
+```
 docker pull djamol/linuxwebfilemanger:latest
 
 docker run -p 8089:80 djamol/linuxwebfilemanger
+```
 
 Open URL http://localhost:8089
 
