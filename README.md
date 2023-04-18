@@ -29,3 +29,19 @@ Amol File Manger is distributed under Apache license in a form of a single PHP f
 ![upload](preview_images/upload.png)
 ![upload2](preview_images/upload2.png)
 
+
+
+#Docker
+https://hub.docker.com/r/djamol/linuxwebfilemanger
+Step
+Step
+
+docker pull djamol/linuxwebfilemanger:latest
+
+docker run -p 8089:80 djamol/linuxwebfilemanger
+
+Open URL http://localhost:8089
+
+Demo Username:demo Password :demo1234
+
+
