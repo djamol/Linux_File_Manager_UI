@@ -46,5 +46,8 @@ docker run -p 8089:80 djamol/linuxwebfilemanger
 Open URL http://localhost:8089
 
 Demo Username:demo Password :demo1234
+![docker](preview_images/docker.png)
+![config](preview_images/config.png)
+
 
 
