@@ -4,7 +4,9 @@ Amol FMANGR is a tool for managing content in linux Web Server Files.
 AmolFileManager organizes all the files in web servers access folders. 
 Use the Amol File Manager interface to manage and edit your files.. 
 Amol File Manger is distributed under Apache license in a form of a single PHP file.
-
+# NEW UI
+![V3](preview_images/v3/1.png)
+![v3_preview](preview_images/v3/2.png)
 
 # Main UI
 ![Logged](preview_images/Logged.png)
